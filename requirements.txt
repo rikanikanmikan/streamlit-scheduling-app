@@ -1,6 +1,5 @@
-pulp
-pandas
 streamlit
-matplotlib.pyplot
-japanize_matplotlib
-src.ShiftScheduler
+pandas
+pulp
+matplotlib
+japanize-matplotlib
